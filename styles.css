@@ -13,6 +13,11 @@ a {
   text-decoration: none;
 }
 
+.title {
+  color: white;
+  text-align: center;
+}
+
 /*
  * -- SPLASH STYLES --
  * This is the blue top section that appears on the page.
